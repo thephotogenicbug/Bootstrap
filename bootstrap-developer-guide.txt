@@ -12,7 +12,7 @@ Grid system has devided all the devices into five types.
 ------------------------------------------------------------------------------------------------------------
 	Grid System has given 12 classes for each type of device
 1.	For extra small  width between 1px to 576px
-	col-1
+	col-1 8.33
 	col-2
 	col-3
 	col-4
@@ -106,7 +106,17 @@ Note: While creating a webpage using bootstrap follow these steps
   text-warning   (Yellow)
   text-secondary (Grey)
   text-info      (Skyblue)
------------------------------------------------------------------------Total 8 classes for text color
+------------------------------------------------------------------------Total 8 classes for text color
+For Background color  
+  bg-white
+  bg-dark
+  bg-primary   
+  bg-danger    
+  bg-success   
+  bg-warning   
+  bg-secondary 
+  bg-info     
+-----------------------------------------------------------------------
   m - margin
   p - padding
   t - top
@@ -132,4 +142,28 @@ Note: While creating a webpage using bootstrap follow these steps
   pr-1(padding-right) 1,2,3,4,5
   pb-1(padding-bottom) 1,2,3,4,5
 ----------------------------------------------------------------------Padding Total 25 classes
- 
+  For Image 
+ img-fluid -- controls the width
+ rounded 
+ rounded-circle
+ --------------------------------------------------------
+ For Table
+  table 
+  table table-bordered
+  table table-stripped
+  table table-sm
+  table table-hover
+--------------------------------------------------------
+ For Button in html
+btn
+btn-primary
+btn-danger
+btn-info
+btn-success
+btn-warning
+btn-light
+btn-sm
+btn-block
+btn-lg
+  
+   
