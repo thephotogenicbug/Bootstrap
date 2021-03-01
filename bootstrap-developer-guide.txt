@@ -165,5 +165,8 @@ btn-light
 btn-sm
 btn-block
 btn-lg
+--------------------------------
+prepend --adds input group in first
+append --adds input group in last
   
    
