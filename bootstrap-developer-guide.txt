@@ -168,5 +168,22 @@ btn-lg
 --------------------------------
 prepend --adds input group in first
 append --adds input group in last
-  
-   
+----------------------------------------
+For Card
+card 
+card-header
+card-body
+card-footer
+---------------------------------------
+For Navigation
+list-group
+list-group-item
+list-group-item active 
+py-0,1,2,3,4, --padding top bottom
+list-group-horizontal
+--------------------------------------
+ Form Multiple Button Group
+ btn-group
+btn-group-sm
+btn-group-lg
+----------------------------------------
